@@ -21,6 +21,7 @@ int main()
 
 	Student a;
 	a.age = 19;
+	cout << a.age << endl;
 
 }
 
