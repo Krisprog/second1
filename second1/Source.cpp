@@ -7,6 +7,10 @@ void Func()
 void Func2(){
 	
 }
+class Point
+{
+
+};
 int main()
 {
 	cout << "Hello world\n";
