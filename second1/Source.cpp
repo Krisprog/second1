@@ -19,5 +19,8 @@ int main()
 	cout<<"Hello Hello";
 	cout<< "Hello Habibi !\n";
 
+	Student a;
+	a.age = 19;
+
 }
 
