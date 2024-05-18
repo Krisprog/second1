@@ -7,6 +7,12 @@ void Func()
 void Func2(){
 	
 }
+struct Student
+{
+	char* name;
+	int age;
+};
+
 class Point
 {
 	int x;
@@ -17,6 +23,10 @@ int main()
 	cout << "Hello world\n";
 	cout<<"Hello Hello";
 	cout<< "Hello Habibi !\n";
+
+	Student a;
+	a.age = 19;
+	cout << a.age << endl;
 
 }
 
