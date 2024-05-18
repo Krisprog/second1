@@ -7,6 +7,12 @@ void Func()
 void Func2(){
 	
 }
+struct Student
+{
+	char* name;
+	int age;
+};
+
 int main()
 {
 	cout << "Hello world\n";
