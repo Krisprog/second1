@@ -9,7 +9,8 @@ void Func2(){
 }
 class Point
 {
-
+	int x;
+	int y;
 };
 int main()
 {
